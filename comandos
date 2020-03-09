@@ -9,4 +9,5 @@ git ls-files (Para listas os arquivos do git remoto para comparar os dados entre
 
 git commit -a (-a serve para quando não queremos adicionar mais nada nesse commit)
 
-
+git add -A (Após renomear um arquivo, o comando serve para fazer a união entre o antigo dado como "deletado" e o novo, assim 
+no commit só vai constar um arquivo).
