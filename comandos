@@ -1,1 +1,3 @@
+- git init "nome" - inicializa o git e cria a pasta de trabalho com a configuração inicial.
+
 - git commit -m "Mensagem para o commit"
