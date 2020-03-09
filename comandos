@@ -1,7 +1,9 @@
 - git init "nome" - inicializa o git e cria a pasta de trabalho com a configuração inicial.
 
-- git commit -m "Mensagem para o commit"
-
+    git commit -m "Mensagem para o commit"
 ou 
+    git commit
 
-- git commit
+- Para listas os arquivos do git remoto para comparar os dados entre local/remoto
+
+    git ls-files
