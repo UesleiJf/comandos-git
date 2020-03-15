@@ -1,1 +1,4 @@
-- Curso de git by Udemy
+Contole de versionamento Git
+
+By Ueslei JF.
+
